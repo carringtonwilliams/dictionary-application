@@ -31,8 +31,11 @@ function App() {
             & is open-sourced on GitHub
           </a>{" "}
           +{" "}
-          <a href="https://www.github.com" target="_blank" rel="noreferrer"></a>
-          <a href="" target="_blank" rel="noreferrer">
+          <a
+            href="https://app.netlify.com/sites/fluffy-bonbon-08bc7e/deploys"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
