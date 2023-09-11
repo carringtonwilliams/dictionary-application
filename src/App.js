@@ -32,7 +32,7 @@ function App() {
           </a>{" "}
           +{" "}
           <a
-            href="https://app.netlify.com/sites/fluffy-bonbon-08bc7e/deploys"
+            href="https://carrington-williams-dictionary-app.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
