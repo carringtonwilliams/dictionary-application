@@ -24,7 +24,7 @@ function App() {
           </a>
           {" ♡ "}
           <a
-            href="https://github.com/carringtonwilliams/dictionaryy-app"
+            href="https://github.com/carringtonwilliams/dictionary-application"
             target="_blank"
             rel="noreferrer"
           >
