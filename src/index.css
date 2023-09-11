@@ -1,0 +1,16 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: url(cool-bg.gif);
+  background-size: 380%;
+}
+
+body,
+a:hover {
+  cursor: url("https://downloads.totallyfreecursors.com/cursor_files/gryglithandwriting.ani"),
+    url("https://downloads.totallyfreecursors.com/thumbnails/gryglithandwriting.gif"),
+    auto;
+}
+
+code {
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}

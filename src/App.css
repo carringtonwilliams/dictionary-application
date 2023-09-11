@@ -1,0 +1,32 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App-title {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 55px;
+  padding: 5px;
+}
+
+.App-logo {
+  max-width: 220px;
+  display: block;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.App a {
+  text-decoration: none;
+  color: #000;
+}
+
+.App a:hover {
+  text-decoration: underline;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}

@@ -1,0 +1,9 @@
+.Meanings h3 {
+  font-size: 48px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.Meanings .definition {
+  font-size: 24px;
+}
